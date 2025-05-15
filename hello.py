@@ -11,7 +11,7 @@ results = query(job_title_sql, "ml_jobs_csv")
 
 
 from preswald import table, text
-text("# ML Jobs Analyses")
+text("# ML Jobs Analysis")
 
 text("### Number of openings by job title")
 
